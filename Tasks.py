@@ -20,5 +20,15 @@
 # чисел. Из всех арифметических операций допускаются только +1 и -1. Также нельзя использовать 
 # циклы.  Пример:  2 2     4
 
+# number1 = int(input('Enter a number a: '))
+# number2 = int(input('Enter a number b: '))
+
+# def sum(number1, number2):
+#     return number1 + number2
+
+# print(sum(number1, number2))
+
+
+
 
     
