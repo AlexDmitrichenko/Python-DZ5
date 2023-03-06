@@ -5,7 +5,7 @@
 # number = int(input('Enter a number A: '))
 # degree = int(input('Enter a degree B: '))
 
-# def powering (number, degree):
+# def powering(number, degree):
 #     if degree == 0:
 #         return 1
 #     elif degree == 1:
