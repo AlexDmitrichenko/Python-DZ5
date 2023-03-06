@@ -20,19 +20,19 @@
 # чисел. Из всех арифметических операций допускаются только +1 и -1. Также нельзя использовать 
 # циклы.  Пример:  2 2     4
 
-number1 = int(input('Enter a number a: '))
-number2 = int(input('Enter a number b: '))
+# number1 = int(input('Enter a number a: '))
+# number2 = int(input('Enter a number b: '))
 
-def sum(number1, number2):
-    if number2 == 0:
-        return number1
-    else:
-        return 1 + sum(number1, number2-1)
+# def sum(number1, number2):
+#     if number2 == 0:
+#         return number1
+#     else:
+#         return 1 + sum(number1, number2-1)
 
-if number1 < 0 or number2 < 0: 
-    print('Entered negative number')
-else:
-    print(sum(number1, number2))
+# if number1 < 0 or number2 < 0: 
+#     print('Entered negative number')
+# else:
+#     print(sum(number1, number2))
 
 
 
